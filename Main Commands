@@ -23,3 +23,8 @@
 14) Copy any 2 files you created to any other folder - cp filename2.txt foldername2/filename2.txt;
                                                      - cp filename2.json foldername2/filename2.json.
 15) Find file by name - find filename3.txt.
+16) View content in real time - tail -f.
+17) Output the first few lines from a text file - head -n filename3.txt.
+18) Output the last few lines from a text file - tail -n filename3.txt.
+19) View the contents of a long file - less filename1.txt.
+20) Display date and time - date.
